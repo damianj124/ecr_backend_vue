@@ -1,0 +1,9 @@
+.el-table td>.cell, .el-table th>.cell {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.my-pagination .el-button+.el-button {
+    margin-bottom:10px;
+}

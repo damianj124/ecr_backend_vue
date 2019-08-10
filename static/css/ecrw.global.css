@@ -1,0 +1,10 @@
+/******************************* video.js *******************************/
+.ecrw-list-resource .video-js .vjs-big-play-button {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    line-height: 2em;
+    font-size: 28px;
+    margin-left: calc(50% - 1em);
+    margin-top: calc(250px - 1em);
+}
